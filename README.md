@@ -1,0 +1,54 @@
+# TheOdinProject
+
+- ### Webdevelopment 101
+     - [x] **The basics:** This section will cover the baseline knowledge you need before getting into the more 'programming' aspects of web development. You'll also get a chance to install the necessary software on your computer.
+        - [x] 1. How this Course Will Work
+        - [x] 2. Introduction to Web Development
+        - [x] 3. Gearing Up
+        - [x] 4. Join the Odin Community
+        - [x] 5. How Does the Web Work?
+        - [x] 6. Command Line Basics
+        - [x] _7. Project: Installations_
+     - [ ] **Git basics:** In this section you will learn the basics of Git and how you can upload your future projects to Github so you can share your work and collaborate with others on projects easily.
+        - [ ] 1. Introduction to Git ⏳
+        - [ ] 2. Git Basics
+        - [ ] _3. Project: Practicing Git Basics_
+     - [ ] **The Front End:** In this section you'll spend a good deal of time getting familiar with the major client-side (browser-based) languages like HTML, CSS, and Javascript. You'll get to build a webpage with HTML/CSS and learn some programming fundamentals with Javascript.
+        - [ ] 1. Introduction to the Front End
+        - [ ] 2. HTML and CSS Basics
+        - [ ] 3. Developer Tools
+        - [ ] _4. Project: HTML/CSS_
+     - [ ] **JavaScript Basics:** Here we finally dig in to JavaScript and learn how to make the web dynamic.
+        - [ ] 1. Fundamentals Part 1
+        - [ ] 2. Fundamentals Part 2
+        - [ ] 3. Developer Tools 2
+        - [ ] 4. Fundamentals Part 3
+        - [ ] _5. Project: Rock Paper Scissors_
+        - [ ] 6. Clean Code
+        - [ ] 7. Fundamentals Part 4
+        - [ ] 8. DOM manipulation
+        - [ ] _9. Project: Etch-a-Sketch project_
+        - [ ] 10. Fundamentals Part 5
+        - [ ] _11. Project: Calculator_
+     - [ ] **The Back End:** Here you'll learn about the back end, where we'll demystify what goes on behind the scenes on a web server. You'll get to take a crack at Ruby, the sublimely awesome language that runs Ruby on Rails.
+        - [ ] 1. Introduction to the Back End
+        - [ ] 2. Ruby Basics
+        - [ ] _3. Project: Ruby_
+        - [ ] 4. Databases
+     - [ ] **Web Development Frameworks:** You've probably heard about 'Ruby on Rails' and 'Backbone.js' and other sleek-sounding development frameworks. In this section, you'll learn what a framework is, why we use them, and get acquainted with the ones we'll be covering in future courses.
+        - [ ] 1. Introduction to Frameworks
+        - [ ] 2. Ruby on Rails Basics
+        - [ ] _3. Project: Ruby on Rails_
+     - [ ] **Pair Programming:** So far, you've probably been working by yourself. Now it's time to learn how to team up with another person anywhere in the world.
+        - [ ] 1. Introduction to Pair Programming
+        - [ ] 2. Preparing to Remote Pair
+        - [ ] _3. Project: Pairing Project_
+     - [ ] **Tying it All Together:** Now that you've had a healthy taste of all the major components in a web application, we'll take a step back and remember where they all fit into the bigger picture.
+        - [ ] 1. Conclusion
+
+- ### Ruby Programming
+- ### Ruby on Rails
+- ### HTML5 and CSS3
+- ### JavaScript
+- ### Getting Hired
+  
