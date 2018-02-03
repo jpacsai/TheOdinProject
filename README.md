@@ -1,4 +1,4 @@
-# TheOdinProject
+# [TheOdinProject](https://www.theodinproject.com/home)
 
 - ### Webdevelopment 101
      - [x] **The basics:** This section will cover the baseline knowledge you need before getting into the more 'programming' aspects of web development. You'll also get a chance to install the necessary software on your computer.
