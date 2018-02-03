@@ -8,7 +8,7 @@
         - [x] 4. Join the Odin Community
         - [x] 5. How Does the Web Work?
         - [x] 6. Command Line Basics
-        - [x] _7. Project: Installations_
+        - [ ] _7. Project: Installations_ _**(getting a new laptop, will do it on that)**_
      - [ ] **Git basics:** In this section you will learn the basics of Git and how you can upload your future projects to Github so you can share your work and collaborate with others on projects easily.
         - [ ] 1. Introduction to Git ⏳
         - [ ] 2. Git Basics
