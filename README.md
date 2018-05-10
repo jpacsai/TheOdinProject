@@ -10,11 +10,11 @@
         - [x] 6. Command Line Basics
         - [ ] _7. Project: Installations_ _**(getting a new laptop, will do it on that)**_
      - [ ] **Git basics:** In this section you will learn the basics of Git and how you can upload your future projects to Github so you can share your work and collaborate with others on projects easily.
-        - [ ] 1. Introduction to Git ⏳
-        - [ ] 2. Git Basics
-        - [ ] _3. Project: Practicing Git Basics_
+        - [x] 1. Introduction to Git
+        - [x] 2. Git Basics
+        - [x] _3. Project: Practicing Git Basics_
      - [ ] **The Front End:** In this section you'll spend a good deal of time getting familiar with the major client-side (browser-based) languages like HTML, CSS, and Javascript. You'll get to build a webpage with HTML/CSS and learn some programming fundamentals with Javascript.
-        - [ ] 1. Introduction to the Front End
+        - [ ] 1. Introduction to the Front End  ⏳
         - [ ] 2. HTML and CSS Basics
         - [ ] 3. Developer Tools
         - [ ] _4. Project: HTML/CSS_
